@@ -1,0 +1,41 @@
+Use these values to test a NOT FIRE / low-risk case in your frontend:
+- Day: 1
+- Month: 6
+- Temperature: 29
+- Relative Humidity: 57
+- Wind Speed: 18
+- Rain: 0
+- FFMC: 65.7
+- DMC: 3.4
+- DC: 7.6
+- ISI: 1.3
+- BUI: 3.4
+- FWI: 0.5 
+
+Try this first as a medium-risk starting point:
+Day: 15
+Month: 7
+Temperature: 31
+Relative Humidity: 60
+Wind Speed: 15
+Rain: 0.2
+FFMC: 80
+DMC: 8
+DC: 20
+ISI: 3.5
+BUI: 9
+FWI: 3.0 
+
+Use these readings for a 100% FIRE probability test in your frontend:
+- Day: 15
+- Month: 8
+- Temperature: 35
+- Relative Humidity: 45
+- Wind Speed: 15
+- Rain: 0
+- FFMC: 90
+- DMC: 25
+- DC: 80
+- ISI: 10
+- BUI: 30
+- FWI: 15
